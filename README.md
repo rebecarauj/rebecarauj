@@ -24,19 +24,19 @@ My goal is to build real-world projects and pursue a Fachinformatiker Ausbildung
 ## Technologies
 
 ### Programming Languages
- Python  
- JavaScript
+- Python  
+- JavaScript
 
 ### Web Development
- HTML  
- CSS
+- HTML  
+- CSS
 
 ### Database
-🗄️ SQL
+- SQL
 
 ### Tools
- Git  
- GitHub
+- Git  
+- GitHub
 
 ## Current Goals
 
@@ -49,7 +49,5 @@ My goal is to build real-world projects and pursue a Fachinformatiker Ausbildung
 
  Portuguese - Native  
  German - Learning (A2)  
- English - Intermediate
- French - Intermediate🇧🇷 Portuguese - Native  
-🇩🇪 German - Learning (A2)  
-🇺🇸 English - Intermediate
+ English - Intermediate  
+ French - Learning (Beginner)
